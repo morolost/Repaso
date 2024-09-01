@@ -40,8 +40,9 @@ for i in range(edad,-1,-1):
 numero=int(input("poner un numero: "))
 
 while edad > numero:
-    if numero / 2:
+    if :
         print(numero)
-    numero=int(input("poner otro numero: "))
+    else:
+        numero=int(input("poner otro numero: "))
 
 #9 implementar en todos los ejercicios anteriores todas las funciones que sean necesarias.
